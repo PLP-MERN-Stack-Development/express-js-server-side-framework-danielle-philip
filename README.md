@@ -60,4 +60,12 @@ Notes
 
 This project uses an in-memory store (data/store.js). Swap to a DB in production.
 
+
 Validation errors return 400; NotFound errors return 404; Auth errors return 401.
+
+## response
+{
+  "id": "8e1042a4-b721-40e1-bfe0-c9eea69c6ef8",
+  "name": "Laptop",
+  "price": 1300
+}
